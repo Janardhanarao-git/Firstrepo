@@ -1,4 +1,8 @@
 I Hello How are you
 
 I am Janardhana rao
+<<<<<<< HEAD
 git
+=======
+Java
+>>>>>>> branch2
