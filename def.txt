@@ -1,10 +1,3 @@
 I Hello How are you
 
-I am Janardhana rao
-Java
-
-
-
-
-
-Hi
+After the switch the branch2
